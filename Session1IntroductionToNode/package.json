@@ -1,0 +1,26 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Node JS Entry Point Labs",
+  "main": "builtInModules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renu-th/node-basics.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "webPack",
+    "React"
+  ],
+  "author": "Renu Thorati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renu-th/node-basics/issues"
+  },
+  "homepage": "https://github.com/renu-th/node-basics#readme",
+  "dependencies": {
+  }
+}
